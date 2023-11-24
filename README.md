@@ -2,4 +2,4 @@
 
 For more information about the code, look at the "Explanation & Proposal" folder.
 
-Note: In order for the code to work, the music used and the main code must be on the same folder
+Note: In order to respect the music copyright policy, music used in this code will not be posted.
