@@ -1,4 +1,4 @@
-# Atari-PONG-game
+# Atari-Pong-game
 
 For more information about the code, refer to the "Explanation & Proposal" folder.
 
